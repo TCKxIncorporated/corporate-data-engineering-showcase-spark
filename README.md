@@ -125,35 +125,6 @@ The dataset simulates a corporate HR system, generated via the Faker library but
 
 ---
 
-## **Installation & Running the Notebook**
-
-### **1. Clone the Repository**
-
-```bash
-git clone https://github.com/yourusername/corporate-data-engineering-showcase-spark.git
-cd corporate-data-engineering-showcase-spark
-```
-
-### **2. Open the Notebook in Google Colab**
-
-Click the badge below to run it instantly:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
-
-### **3. Install Dependencies**
-
-The notebook automatically runs:
-
-```bash
-pip install pyspark kagglehub pandas
-```
-
-### **4. Run SparkSession**
-
-The notebook starts Spark automatically and loads all data.
-
----
-
 ## **Analytical Tasks Performed**
 
 ### Salary Insights
